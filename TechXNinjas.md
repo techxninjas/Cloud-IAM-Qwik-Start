@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp">
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@TechXNinjas">
+  <a href="https://www.youtube.com/@TechXNinjas?sub_confirmation=1">
     <img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe YouTube">
   </a>
   &nbsp;
