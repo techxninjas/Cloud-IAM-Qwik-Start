@@ -44,7 +44,7 @@
 <div align="center">
   <p><strong>Connect with TechXNinjas for more hands-on learning, opportunities, and support!</strong></p>
 
-  <a href="https://chat.whatsapp.com/BZczJZSamtX144BCTagYxk">
+  <a href="https://chat.whatsapp.com/B7uNN97yIwRHQnlYux2Tmn">
     <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp">
   </a>
   &nbsp;
